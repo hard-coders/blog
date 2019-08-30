@@ -1,3 +1,6 @@
 [submodule "themes/next"]
 	path = themes/next
 	url = https://github.com/hard-coders/hexo-theme-next.git
+[submodule "themes/ocean"]
+	path = themes/ocean
+	url = https://github.com/hard-coders/hexo-theme-ocean
